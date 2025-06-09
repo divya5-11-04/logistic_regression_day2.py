@@ -9,9 +9,7 @@ Logistic Regression is a **supervised machine learning algorithm** used for **cl
 Instead of predicting a continuous value (like Linear Regression), it predicts **probabilities** between 0 and 1 using the **sigmoid function**, and maps those to class labels (e.g., 0 or 1).
 
 Formula:
-\[
-\sigma(x) = \frac{1}{1 + e^{-x}}
-\]
+σ(x)= (1/(1+e^(-x)))
 
 ---
 
